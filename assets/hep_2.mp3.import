@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hep_2.mp3-c4d834415a658cf4dc0c73a68f2e6afb.mp3str"
+
+[deps]
+
+source_file="res://assets/hep_2.mp3"
+dest_files=[ "res://.import/hep_2.mp3-c4d834415a658cf4dc0c73a68f2e6afb.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
